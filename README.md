@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Ghosh</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **REST-API using Spring Boot**
+- 🔭 I’m currently working on **Library Management System using Spring**
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
